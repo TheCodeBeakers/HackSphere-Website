@@ -1,4 +1,4 @@
-# HackSphere Hackathon - README
+# HackSphere Hackathon
 
 Welcome to the official repository for The CodeBreakers Club's HackSphere Hackathon held on January 16th, 2024!
 
